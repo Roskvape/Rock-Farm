@@ -1,0 +1,7 @@
+U:\Training\C Sharp\ATTA Prep Course\MUD\MUD\MUD\obj\Debug\MUD.csprojResolveAssemblyReference.cache
+U:\Training\C Sharp\ATTA Prep Course\MUD\MUD\MUD\obj\Debug\MUD.csproj.CoreCompileInputs.cache
+U:\Training\C Sharp\ATTA Prep Course\MUD\MUD\MUD\bin\Debug\MUD.exe.config
+U:\Training\C Sharp\ATTA Prep Course\MUD\MUD\MUD\bin\Debug\MUD.exe
+U:\Training\C Sharp\ATTA Prep Course\MUD\MUD\MUD\bin\Debug\MUD.pdb
+U:\Training\C Sharp\ATTA Prep Course\MUD\MUD\MUD\obj\Debug\MUD.exe
+U:\Training\C Sharp\ATTA Prep Course\MUD\MUD\MUD\obj\Debug\MUD.pdb

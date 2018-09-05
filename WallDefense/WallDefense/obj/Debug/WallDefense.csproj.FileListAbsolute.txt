@@ -1,0 +1,7 @@
+U:\Training\C Sharp\ATTA Prep Course\WallDefense\WallDefense\bin\Debug\WallDefense.exe.config
+U:\Training\C Sharp\ATTA Prep Course\WallDefense\WallDefense\bin\Debug\WallDefense.exe
+U:\Training\C Sharp\ATTA Prep Course\WallDefense\WallDefense\bin\Debug\WallDefense.pdb
+U:\Training\C Sharp\ATTA Prep Course\WallDefense\WallDefense\obj\Debug\WallDefense.csproj.CoreCompileInputs.cache
+U:\Training\C Sharp\ATTA Prep Course\WallDefense\WallDefense\obj\Debug\WallDefense.exe
+U:\Training\C Sharp\ATTA Prep Course\WallDefense\WallDefense\obj\Debug\WallDefense.pdb
+U:\Training\C Sharp\ATTA Prep Course\WallDefense\WallDefense\obj\Debug\WallDefense.csprojAssemblyReference.cache
